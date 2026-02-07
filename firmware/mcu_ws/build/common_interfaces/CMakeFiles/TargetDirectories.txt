@@ -1,0 +1,8 @@
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/common_interfaces/CMakeFiles/uninstall.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/common_interfaces/CMakeFiles/common_interfaces_uninstall.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/common_interfaces/CMakeFiles/test.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/common_interfaces/CMakeFiles/edit_cache.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/common_interfaces/CMakeFiles/rebuild_cache.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/common_interfaces/CMakeFiles/list_install_components.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/common_interfaces/CMakeFiles/install.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/common_interfaces/CMakeFiles/install/local.dir

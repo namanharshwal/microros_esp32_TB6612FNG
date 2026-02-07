@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-509f5466dd4cc81db367.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "libyaml_vendor",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "libyaml-0.2.5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libyaml-0.2.5-Debug-df29030b30b603de4618.json",
+					"name" : "libyaml-0.2.5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libyaml_vendor_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libyaml_vendor_uninstall-Debug-0d4ae4012d44dd73009c.json",
+					"name" : "libyaml_vendor_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-3b481248b1a6a6b3dc53.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nammy/micro_ros_ws/firmware/mcu_ws/build/libyaml_vendor",
+		"source" : "/home/nammy/micro_ros_ws/firmware/mcu_ws/ros2/libyaml_vendor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

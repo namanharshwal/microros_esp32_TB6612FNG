@@ -1,0 +1,40 @@
+[0.636s] Invoking command in '/home/nammy/micro_ros_ws/firmware/dev_ws/ament/ament_lint/ament_pep257': AMENT_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_pep257 build --build-base /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/build install --record /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/install.log --single-version-externally-managed install_data
+[0.887s] running egg_info
+[0.888s] creating ../../../build/ament_pep257/ament_pep257.egg-info
+[0.888s] writing ../../../build/ament_pep257/ament_pep257.egg-info/PKG-INFO
+[0.888s] writing dependency_links to ../../../build/ament_pep257/ament_pep257.egg-info/dependency_links.txt
+[0.888s] writing entry points to ../../../build/ament_pep257/ament_pep257.egg-info/entry_points.txt
+[0.888s] writing requirements to ../../../build/ament_pep257/ament_pep257.egg-info/requires.txt
+[0.888s] writing top-level names to ../../../build/ament_pep257/ament_pep257.egg-info/top_level.txt
+[0.889s] writing manifest file '../../../build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[0.890s] reading manifest file '../../../build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[0.891s] writing manifest file '../../../build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[0.891s] running build
+[0.891s] running build_py
+[0.891s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/build
+[0.891s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/build/lib
+[0.891s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[0.892s] copying ament_pep257/__init__.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[0.892s] copying ament_pep257/main.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[0.892s] copying ament_pep257/pytest_marker.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[0.892s] running install
+[0.892s] running install_lib
+[0.893s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257
+[0.894s] copying /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257/__init__.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257
+[0.894s] copying /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257/main.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257
+[0.894s] copying /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257/pytest_marker.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257
+[0.894s] byte-compiling /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257/__init__.py to __init__.cpython-310.pyc
+[0.895s] byte-compiling /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257/main.py to main.cpython-310.pyc
+[0.897s] byte-compiling /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257/pytest_marker.py to pytest_marker.cpython-310.pyc
+[0.897s] running install_data
+[0.897s] copying package.xml -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/share/ament_pep257
+[0.898s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/share/ament_index
+[0.898s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/share/ament_index/resource_index
+[0.898s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/share/ament_index/resource_index/packages
+[0.898s] copying resource/ament_pep257 -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/share/ament_index/resource_index/packages
+[0.898s] running install_egg_info
+[0.899s] Copying ../../../build/ament_pep257/ament_pep257.egg-info to /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257-0.12.14-py3.10.egg-info
+[0.900s] running install_scripts
+[0.921s] Installing ament_pep257 script to /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/bin
+[0.922s] writing list of installed files to '/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/install.log'
+[0.953s] Invoked command in '/home/nammy/micro_ros_ws/firmware/dev_ws/ament/ament_lint/ament_pep257' returned '0': AMENT_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_pep257 build --build-base /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/build install --record /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_pep257/install.log --single-version-externally-managed install_data

@@ -1,0 +1,8 @@
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_pyflakes/CMakeFiles/uninstall.dir
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_pyflakes/CMakeFiles/ament_cmake_pyflakes_uninstall.dir
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_pyflakes/CMakeFiles/test.dir
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_pyflakes/CMakeFiles/edit_cache.dir
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_pyflakes/CMakeFiles/rebuild_cache.dir
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_pyflakes/CMakeFiles/list_install_components.dir
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_pyflakes/CMakeFiles/install.dir
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_pyflakes/CMakeFiles/install/local.dir

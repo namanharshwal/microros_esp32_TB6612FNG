@@ -1,0 +1,4 @@
+In file included from /home/nammy/micro_ros_ws/firmware/mcu_ws/uros/rmw_microxrcedds/rmw_microxrcedds_c/src/rmw_init.c:15:
+/home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/time.h:22:2: warning: #include_next is a GCC extension
+ #include_next <time.h>
+  ^~~~~~~~~~~~

@@ -1,0 +1,72 @@
+Configuring firmware for freertos platform esp32
+WARNING: using an unsupported version of tool xtensa-esp32-elf found in PATH: unknown
+WARNING: using an unsupported version of tool xtensa-esp32s2-elf found in PATH: unknown
+WARNING: using an unsupported version of tool cmake found in PATH: 3.22.1
+WARNING: using an unsupported version of tool ninja found in PATH: 1.10.1
+Adding ESP-IDF tools to PATH...
+Not using an unsupported version of tool xtensa-esp32-elf found in PATH: unknown.
+Not using an unsupported version of tool xtensa-esp32s2-elf found in PATH: unknown.
+Checking if Python packages are up to date...
+/home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/tools/check_python_dependencies.py:22: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  import pkg_resources
+Python requirements from /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/requirements.txt are satisfied.
+Added the following directories to PATH:
+  /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esptool_py/esptool
+  /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/espcoredump
+  /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/partition_table/
+  /home/nammy/micro_ros_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin
+  /home/nammy/micro_ros_ws/firmware/toolchain/espressif/tools/xtensa-esp32s2-elf/esp-2020r2-8.2.0/xtensa-esp32s2-elf/bin
+Done! You can now compile ESP-IDF projects.
+Go to the project directory and run:
+
+  idf.py build
+
+-- Found Git: /usr/bin/git (found version "2.34.1") 
+-- IDF_TARGET not set, using default target: esp32
+-- The C compiler identification is GNU 8.2.0
+-- The CXX compiler identification is GNU 8.2.0
+-- The ASM compiler identification is GNU
+-- Found assembler: /home/nammy/micro_ros_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /home/nammy/micro_ros_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /home/nammy/micro_ros_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Project version: 3.0.1-1-g7a42603
+-- Building ESP-IDF components for target esp32
+-- Checking Python dependencies...
+/home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/tools/check_python_dependencies.py:22: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  import pkg_resources
+Python requirements from /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/requirements.txt are satisfied.
+Loading defaults file /home/nammy/micro_ros_ws/firmware/freertos_apps/microros_esp32_extensions/sdkconfig.defaults...
+CMake Deprecation Warning at /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/mbedtls/mbedtls/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Found PythonInterp: /home/nammy/micro_ros_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python (found version "3.10.12") 
+-- Found Perl: /usr/bin/perl (found version "5.34.0") 
+-- Adding linker script /home/nammy/micro_ros_ws/firmware/freertos_apps/microros_esp32_extensions/build/esp-idf/esp32/esp32_out.ld
+-- Adding linker script /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp32/ld/esp32.project.ld.in
+-- Adding linker script /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp32/ld/esp32.peripherals.ld
+-- Adding linker script /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-time.ld
+-- Adding linker script /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_rom/esp32/ld/esp32.rom.ld
+-- Adding linker script /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_rom/esp32/ld/esp32.rom.libgcc.ld
+-- Adding linker script /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-data.ld
+-- Adding linker script /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_rom/esp32/ld/esp32.rom.syscalls.ld
+-- Adding linker script /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-funcs.ld
+-- Components: app_trace app_update asio bootloader bootloader_support bt cbor coap console cxx driver efuse esp-tls esp32 esp_adc_cal esp_common esp_eth esp_event esp_gdbstub esp_http_client esp_http_server esp_https_ota esp_https_server esp_local_ctrl esp_netif esp_ringbuf esp_rom esp_serial_slave_link esp_websocket_client esp_wifi espcoredump esptool_py expat fatfs freemodbus freertos heap idf_test jsmn json libsodium log lwip main mbedtls mdns mqtt newlib nghttp nvs_flash openssl partition_table perfmon protobuf-c protocomm pthread sdmmc soc spi_flash spiffs tcp_transport tcpip_adapter ulp unity vfs wear_levelling wifi_provisioning wpa_supplicant xtensa
+-- Component paths: /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/app_trace /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/app_update /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/asio /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/bootloader /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/bootloader_support /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/bt /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/cbor /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/coap /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/console /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/cxx /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/driver /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/efuse /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp-tls /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp32 /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_adc_cal /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_common /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_eth /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_event /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_gdbstub /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_http_client /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_http_server /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_https_ota /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_https_server /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_local_ctrl /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_netif /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_ringbuf /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_rom /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_serial_slave_link /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_websocket_client /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esp_wifi /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/espcoredump /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/esptool_py /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/expat /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/fatfs /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/freemodbus /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/freertos /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/heap /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/idf_test /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/jsmn /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/json /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/libsodium /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/log /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/lwip /home/nammy/micro_ros_ws/firmware/freertos_apps/microros_esp32_extensions/main /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/mbedtls /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/mdns /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/mqtt /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/newlib /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/nghttp /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/nvs_flash /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/openssl /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/partition_table /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/perfmon /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/protobuf-c /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/protocomm /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/pthread /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/sdmmc /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/soc /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/spi_flash /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/spiffs /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/tcp_transport /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/tcpip_adapter /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/ulp /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/unity /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/vfs /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/wear_levelling /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/wifi_provisioning /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/wpa_supplicant /home/nammy/micro_ros_ws/firmware/toolchain/esp-idf/components/xtensa
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nammy/micro_ros_ws/firmware/freertos_apps/microros_esp32_extensions/build
+Configured udp mode with agent at 10.42.0.1:8888
+You can configure your WiFi AP password running 'ros2 run micro_ros_setup build_firmware.sh menuconfig'

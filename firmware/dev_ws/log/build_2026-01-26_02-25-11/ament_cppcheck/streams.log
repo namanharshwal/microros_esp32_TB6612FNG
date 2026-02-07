@@ -1,0 +1,37 @@
+[0.857s] Invoking command in '/home/nammy/micro_ros_ws/firmware/dev_ws/ament/ament_lint/ament_cppcheck': PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cppcheck/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_cppcheck build --build-base /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cppcheck/build install --record /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cppcheck/install.log --single-version-externally-managed install_data
+[0.984s] running egg_info
+[0.985s] creating ../../../build/ament_cppcheck/ament_cppcheck.egg-info
+[0.985s] writing ../../../build/ament_cppcheck/ament_cppcheck.egg-info/PKG-INFO
+[0.985s] writing dependency_links to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/dependency_links.txt
+[0.985s] writing entry points to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/entry_points.txt
+[0.985s] writing requirements to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/requires.txt
+[0.985s] writing top-level names to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/top_level.txt
+[0.985s] writing manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[0.986s] reading manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[0.986s] writing manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[0.986s] running build
+[0.987s] running build_py
+[0.987s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cppcheck/build
+[0.987s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib
+[0.987s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck
+[0.987s] copying ament_cppcheck/__init__.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck
+[0.987s] copying ament_cppcheck/main.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck
+[0.987s] running install
+[0.987s] running install_lib
+[0.988s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck
+[0.988s] copying /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck/__init__.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck
+[0.988s] copying /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck/main.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck
+[0.988s] byte-compiling /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck/__init__.py to __init__.cpython-310.pyc
+[0.988s] byte-compiling /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck/main.py to main.cpython-310.pyc
+[0.989s] running install_data
+[0.990s] copying package.xml -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_cppcheck
+[0.990s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_index
+[0.990s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_index/resource_index
+[0.990s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_index/resource_index/packages
+[0.990s] copying resource/ament_cppcheck -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_index/resource_index/packages
+[0.990s] running install_egg_info
+[0.993s] Copying ../../../build/ament_cppcheck/ament_cppcheck.egg-info to /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck-0.12.14-py3.10.egg-info
+[0.993s] running install_scripts
+[1.003s] Installing ament_cppcheck script to /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cppcheck/bin
+[1.003s] writing list of installed files to '/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cppcheck/install.log'
+[1.023s] Invoked command in '/home/nammy/micro_ros_ws/firmware/dev_ws/ament/ament_lint/ament_cppcheck' returned '0': PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cppcheck/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_cppcheck build --build-base /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cppcheck/build install --record /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cppcheck/install.log --single-version-externally-managed install_data

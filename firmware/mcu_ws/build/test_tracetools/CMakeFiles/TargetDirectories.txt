@@ -1,0 +1,9 @@
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/uninstall.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/test_tracetools_uninstall.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/test.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/edit_cache.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/rebuild_cache.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/list_install_components.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/install.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/install/local.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles/install/strip.dir

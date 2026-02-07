@@ -1,0 +1,8 @@
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/uninstall.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/rosidl_typesupport_interface_uninstall.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/test.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/edit_cache.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/rebuild_cache.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/list_install_components.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/install.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/install/local.dir

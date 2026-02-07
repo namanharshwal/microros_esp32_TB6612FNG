@@ -1,0 +1,17 @@
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_index/resource_index/package_run_dependencies/ament_cmake_libraries
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_index/resource_index/parent_prefix_path/ament_cmake_libraries
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_cmake_libraries/environment/ament_prefix_path.sh
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_cmake_libraries/environment/ament_prefix_path.dsv
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_cmake_libraries/environment/path.sh
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_cmake_libraries/environment/path.dsv
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_cmake_libraries/local_setup.bash
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_cmake_libraries/local_setup.sh
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_cmake_libraries/local_setup.zsh
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_cmake_libraries/local_setup.dsv
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_cmake_libraries/package.dsv
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_index/resource_index/packages/ament_cmake_libraries
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_cmake_libraries/cmake/ament_cmake_libraries-extras.cmake
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_cmake_libraries/cmake/ament_cmake_librariesConfig.cmake
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_cmake_libraries/cmake/ament_cmake_librariesConfig-version.cmake
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_cmake_libraries/package.xml
+/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_libraries/share/ament_cmake_libraries/cmake/ament_libraries_deduplicate.cmake

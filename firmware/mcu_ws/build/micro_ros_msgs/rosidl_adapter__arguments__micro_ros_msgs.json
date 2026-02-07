@@ -1,0 +1,8 @@
+{
+  "package_name": "micro_ros_msgs",
+  "non_idl_tuples": [
+    "/home/nammy/micro_ros_ws/firmware/mcu_ws/uros/micro_ros_msgs:msg/Graph.msg",
+    "/home/nammy/micro_ros_ws/firmware/mcu_ws/uros/micro_ros_msgs:msg/Node.msg",
+    "/home/nammy/micro_ros_ws/firmware/mcu_ws/uros/micro_ros_msgs:msg/Entity.msg"
+  ]
+}

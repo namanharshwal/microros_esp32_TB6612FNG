@@ -1,0 +1,36 @@
+[0.860s] Invoking command in '/home/nammy/micro_ros_ws/firmware/dev_ws/ament/ament_lint/ament_lint': PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_lint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_lint build --build-base /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_lint/build install --record /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_lint/install.log --single-version-externally-managed install_data
+[0.992s] running egg_info
+[0.992s] creating ../../../build/ament_lint/ament_lint.egg-info
+[0.992s] writing ../../../build/ament_lint/ament_lint.egg-info/PKG-INFO
+[0.992s] writing dependency_links to ../../../build/ament_lint/ament_lint.egg-info/dependency_links.txt
+[0.992s] writing entry points to ../../../build/ament_lint/ament_lint.egg-info/entry_points.txt
+[0.992s] writing requirements to ../../../build/ament_lint/ament_lint.egg-info/requires.txt
+[0.992s] writing top-level names to ../../../build/ament_lint/ament_lint.egg-info/top_level.txt
+[0.993s] writing manifest file '../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[0.993s] reading manifest file '../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[0.994s] writing manifest file '../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[0.994s] running build
+[0.994s] running build_py
+[0.994s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_lint/build
+[0.994s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_lint/build/lib
+[0.994s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint
+[0.994s] copying ament_lint/__init__.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint
+[0.994s] copying ament_lint/pytest_marker.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint
+[0.994s] running install
+[0.994s] running install_lib
+[0.996s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint
+[0.996s] copying /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint/__init__.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint
+[0.996s] copying /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint/pytest_marker.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint
+[0.996s] byte-compiling /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint/__init__.py to __init__.cpython-310.pyc
+[0.997s] byte-compiling /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint/pytest_marker.py to pytest_marker.cpython-310.pyc
+[0.997s] running install_data
+[0.997s] copying package.xml -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/share/ament_lint
+[0.998s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/share/ament_index
+[0.998s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/share/ament_index/resource_index
+[0.998s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/share/ament_index/resource_index/packages
+[0.998s] copying resource/ament_lint -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/share/ament_index/resource_index/packages
+[0.998s] running install_egg_info
+[0.999s] Copying ../../../build/ament_lint/ament_lint.egg-info to /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint-0.12.14-py3.10.egg-info
+[0.999s] running install_scripts
+[1.009s] writing list of installed files to '/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_lint/install.log'
+[1.046s] Invoked command in '/home/nammy/micro_ros_ws/firmware/dev_ws/ament/ament_lint/ament_lint' returned '0': PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_lint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_lint build --build-base /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_lint/build install --record /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_lint/install.log --single-version-externally-managed install_data

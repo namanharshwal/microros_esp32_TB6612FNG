@@ -1,0 +1,73 @@
+[0.019s] Invoking command in '/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_gen_version_h': AMENT_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gtest:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_python:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_core:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gtest:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_python:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_core:/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor PKG_CONFIG_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor/lib/pkgconfig PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test/local/lib/python3.10/dist-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/nammy/micro_ros_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_gen_version_h -DCMAKE_INSTALL_PREFIX=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h
+[0.063s] -- The C compiler identification is GNU 11.4.0
+[0.113s] -- The CXX compiler identification is GNU 11.4.0
+[0.120s] -- Detecting C compiler ABI info
+[0.183s] -- Detecting C compiler ABI info - done
+[0.188s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.188s] -- Detecting C compile features
+[0.188s] -- Detecting C compile features - done
+[0.190s] -- Detecting CXX compiler ABI info
+[0.259s] -- Detecting CXX compiler ABI info - done
+[0.266s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.266s] -- Detecting CXX compile features
+[0.266s] -- Detecting CXX compile features - done
+[0.266s] -- Found ament_cmake_core: 1.3.13 (/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake)
+[0.385s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.431s] -- Found ament_cmake_gtest: 1.3.13 (/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gtest/share/ament_cmake_gtest/cmake)
+[0.471s] -- Create new version file for version 1.3.13
+[0.512s] -- Create new version file for version 1.3.13
+[0.551s] -- Create new version file for version 1.3.13
+[0.593s] -- Create new version file for version 1.3.13
+[0.595s] -- Found gtest sources under '/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[0.596s] -- Looking for pthread.h
+[0.652s] -- Looking for pthread.h - found
+[0.652s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.713s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.714s] -- Found Threads: TRUE  
+[0.800s] -- Configuring done
+[0.810s] -- Generating done
+[0.816s] -- Build files have been written to: /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_gen_version_h
+[1.855s] Invoked command in '/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_gen_version_h' returned '0': AMENT_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gtest:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_python:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_core:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gtest:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_python:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_core:/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor PKG_CONFIG_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor/lib/pkgconfig PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test/local/lib/python3.10/dist-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/nammy/micro_ros_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_gen_version_h -DCMAKE_INSTALL_PREFIX=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h
+[1.857s] Invoking command in '/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_gen_version_h': AMENT_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gtest:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_python:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_core:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gtest:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_python:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_core:/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor PKG_CONFIG_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor/lib/pkgconfig PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test/local/lib/python3.10/dist-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_gen_version_h -- -j20 -l20
+[1.887s] [  8%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[1.891s] [ 16%] [34m[1mGenerating ament_generate_version_header/version.hpp[0m
+[1.893s] [ 25%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[1.904s] [ 25%] Built target ament_generate_version_header__some_lib
+[2.278s] [ 33%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[2.343s] [ 33%] Built target gtest_main
+[3.968s] [ 41%] [32m[1mLinking CXX static library libgtest.a[0m
+[4.043s] [ 41%] Built target gtest
+[4.067s] [ 50%] [32mBuilding CXX object CMakeFiles/test_ament_cmake_gen_version_h.dir/test/test_version_custom.cpp.o[0m
+[4.067s] [ 58%] [32mBuilding CXX object CMakeFiles/test_ament_cmake_gen_version_h.dir/test/test_version2_h.cpp.o[0m
+[4.068s] [ 66%] [32mBuilding CXX object CMakeFiles/test_ament_cmake_gen_version_h.dir/test/test_version_h.cpp.o[0m
+[4.068s] [ 75%] [32mBuilding CXX object CMakeFiles/test_ament_cmake_gen_version_h.dir/test/test_version1_h.cpp.o[0m
+[4.069s] [ 83%] [32mBuilding CXX object CMakeFiles/test_ament_generate_version_header.dir/test/test_version_hpp.cpp.o[0m
+[4.459s] [ 91%] [32m[1mLinking CXX executable test_ament_generate_version_header[0m
+[4.465s] [100%] [32m[1mLinking CXX executable test_ament_cmake_gen_version_h[0m
+[4.554s] [100%] Built target test_ament_generate_version_header
+[4.562s] [100%] Built target test_ament_cmake_gen_version_h
+[4.573s] Invoked command in '/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_gen_version_h' returned '0': AMENT_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gtest:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_python:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_core:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gtest:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_python:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_core:/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor PKG_CONFIG_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor/lib/pkgconfig PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test/local/lib/python3.10/dist-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_gen_version_h -- -j20 -l20
+[4.575s] Invoking command in '/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_gen_version_h': AMENT_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gtest:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_python:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_core:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gtest:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_python:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_core:/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor PKG_CONFIG_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor/lib/pkgconfig PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test/local/lib/python3.10/dist-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_gen_version_h
+[4.584s] -- Install configuration: ""
+[4.584s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_index/resource_index/package_run_dependencies/ament_cmake_gen_version_h
+[4.585s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_index/resource_index/parent_prefix_path/ament_cmake_gen_version_h
+[4.585s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/environment/ament_prefix_path.sh
+[4.585s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/environment/ament_prefix_path.dsv
+[4.585s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/environment/path.sh
+[4.585s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/environment/path.dsv
+[4.585s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/local_setup.bash
+[4.585s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/local_setup.sh
+[4.585s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/local_setup.zsh
+[4.585s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/local_setup.dsv
+[4.586s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/package.dsv
+[4.586s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_index/resource_index/packages/ament_cmake_gen_version_h
+[4.586s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/cmake/ament_cmake_gen_version_h-extras.cmake
+[4.586s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/cmake/ament_cmake_gen_version_hConfig.cmake
+[4.586s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/cmake/ament_cmake_gen_version_hConfig-version.cmake
+[4.586s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/package.xml
+[4.586s] -- Up-to-date: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/cmake
+[4.586s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/cmake/version.h.in
+[4.586s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/cmake/generate_version_header.cmake.in
+[4.586s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/cmake/ament_generate_version_header.cmake
+[4.586s] -- Installing: /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gen_version_h/share/ament_cmake_gen_version_h/cmake/ament_cmake_gen_version_h.cmake
+[4.587s] Invoked command in '/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_gen_version_h' returned '0': AMENT_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gtest:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_python:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_core:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_gtest:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_python:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_core:/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor PKG_CONFIG_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/home/nammy/micro_ros_ws/firmware/dev_ws/install/gtest_vendor/lib/pkgconfig PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_cmake_test/local/lib/python3.10/dist-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_gen_version_h

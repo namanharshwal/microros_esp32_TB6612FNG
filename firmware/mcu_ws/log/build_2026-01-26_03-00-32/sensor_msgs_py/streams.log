@@ -1,0 +1,36 @@
+[0.455s] Invoking command in '/home/nammy/micro_ros_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs_py': AMENT_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nammy/micro_ros_ws/firmware/mcu_ws/install/lib:${LD_LIBRARY_PATH} PATH=/home/nammy/micro_ros_ws/firmware/mcu_ws/install/bin:${PATH} PYTHONPATH=/home/nammy/micro_ros_ws/firmware/mcu_ws/build/sensor_msgs_py/prefix_override:/home/nammy/micro_ros_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/nammy/micro_ros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /home/nammy/micro_ros_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/sensor_msgs_py build --build-base /home/nammy/micro_ros_ws/firmware/mcu_ws/build/sensor_msgs_py/build install --record /home/nammy/micro_ros_ws/firmware/mcu_ws/build/sensor_msgs_py/install.log --single-version-externally-managed install_data
+[0.548s] /home/nammy/micro_ros_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[0.548s]   warnings.warn(msg)
+[0.569s] running egg_info
+[0.572s] creating ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info
+[0.572s] writing ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/PKG-INFO
+[0.573s] writing dependency_links to ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/dependency_links.txt
+[0.573s] writing requirements to ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/requires.txt
+[0.573s] writing top-level names to ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/top_level.txt
+[0.573s] writing manifest file '../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[0.581s] reading manifest file '../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[0.581s] adding license file 'LICENSE'
+[0.581s] writing manifest file '../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[0.581s] running build
+[0.581s] running build_py
+[0.582s] creating /home/nammy/micro_ros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[0.582s] copying sensor_msgs_py/__init__.py -> /home/nammy/micro_ros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[0.582s] copying sensor_msgs_py/numpy_compat.py -> /home/nammy/micro_ros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[0.582s] copying sensor_msgs_py/point_cloud2.py -> /home/nammy/micro_ros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[0.582s] running install
+[0.585s] running install_lib
+[0.588s] creating /home/nammy/micro_ros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py
+[0.588s] copying /home/nammy/micro_ros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/__init__.py -> /home/nammy/micro_ros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py
+[0.588s] copying /home/nammy/micro_ros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/numpy_compat.py -> /home/nammy/micro_ros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py
+[0.588s] copying /home/nammy/micro_ros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/point_cloud2.py -> /home/nammy/micro_ros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py
+[0.589s] byte-compiling /home/nammy/micro_ros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py/__init__.py to __init__.cpython-310.pyc
+[0.589s] byte-compiling /home/nammy/micro_ros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py/numpy_compat.py to numpy_compat.cpython-310.pyc
+[0.590s] byte-compiling /home/nammy/micro_ros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py/point_cloud2.py to point_cloud2.cpython-310.pyc
+[0.590s] running install_data
+[0.591s] copying resource/sensor_msgs_py -> /home/nammy/micro_ros_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages
+[0.591s] copying package.xml -> /home/nammy/micro_ros_ws/firmware/mcu_ws/install/share/sensor_msgs_py
+[0.591s] running install_egg_info
+[0.595s] Copying ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info to /home/nammy/micro_ros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py-4.9.0-py3.10.egg-info
+[0.595s] running install_scripts
+[0.622s] writing list of installed files to '/home/nammy/micro_ros_ws/firmware/mcu_ws/build/sensor_msgs_py/install.log'
+[0.637s] Invoked command in '/home/nammy/micro_ros_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs_py' returned '0': AMENT_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nammy/micro_ros_ws/firmware/mcu_ws/install/lib:${LD_LIBRARY_PATH} PATH=/home/nammy/micro_ros_ws/firmware/mcu_ws/install/bin:${PATH} PYTHONPATH=/home/nammy/micro_ros_ws/firmware/mcu_ws/build/sensor_msgs_py/prefix_override:/home/nammy/micro_ros_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/nammy/micro_ros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /home/nammy/micro_ros_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/sensor_msgs_py build --build-base /home/nammy/micro_ros_ws/firmware/mcu_ws/build/sensor_msgs_py/build install --record /home/nammy/micro_ros_ws/firmware/mcu_ws/build/sensor_msgs_py/install.log --single-version-externally-managed install_data

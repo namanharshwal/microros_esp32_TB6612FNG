@@ -1,0 +1,37 @@
+[1.481s] Invoking command in '/home/nammy/micro_ros_ws/firmware/dev_ws/ament/ament_lint/ament_clang_tidy': AMENT_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_copyright:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_copyright/bin:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/bin:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_clang_tidy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_clang_tidy build --build-base /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_clang_tidy/build install --record /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_clang_tidy/install.log --single-version-externally-managed install_data
+[1.617s] running egg_info
+[1.618s] creating ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info
+[1.618s] writing ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/PKG-INFO
+[1.618s] writing dependency_links to ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/dependency_links.txt
+[1.618s] writing entry points to ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/entry_points.txt
+[1.619s] writing requirements to ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/requires.txt
+[1.619s] writing top-level names to ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/top_level.txt
+[1.619s] writing manifest file '../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/SOURCES.txt'
+[1.619s] reading manifest file '../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/SOURCES.txt'
+[1.620s] writing manifest file '../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/SOURCES.txt'
+[1.620s] running build
+[1.620s] running build_py
+[1.620s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_clang_tidy/build
+[1.620s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib
+[1.620s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy
+[1.620s] copying ament_clang_tidy/__init__.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy
+[1.620s] copying ament_clang_tidy/main.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy
+[1.621s] running install
+[1.621s] running install_lib
+[1.621s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy
+[1.621s] copying /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy/__init__.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy
+[1.621s] copying /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy/main.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy
+[1.621s] byte-compiling /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy/__init__.py to __init__.cpython-310.pyc
+[1.622s] byte-compiling /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy/main.py to main.cpython-310.pyc
+[1.622s] running install_data
+[1.623s] copying package.xml -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_clang_tidy/share/ament_clang_tidy
+[1.623s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_clang_tidy/share/ament_index
+[1.623s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_clang_tidy/share/ament_index/resource_index
+[1.623s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_clang_tidy/share/ament_index/resource_index/packages
+[1.623s] copying resource/ament_clang_tidy -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_clang_tidy/share/ament_index/resource_index/packages
+[1.623s] running install_egg_info
+[1.624s] Copying ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info to /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy-0.12.14-py3.10.egg-info
+[1.624s] running install_scripts
+[1.637s] Installing ament_clang_tidy script to /home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_clang_tidy/bin
+[1.637s] writing list of installed files to '/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_clang_tidy/install.log'
+[1.663s] Invoked command in '/home/nammy/micro_ros_ws/firmware/dev_ws/ament/ament_lint/ament_clang_tidy' returned '0': AMENT_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_copyright:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_copyright/bin:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/bin:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_clang_tidy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_clang_tidy build --build-base /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_clang_tidy/build install --record /home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_clang_tidy/install.log --single-version-externally-managed install_data

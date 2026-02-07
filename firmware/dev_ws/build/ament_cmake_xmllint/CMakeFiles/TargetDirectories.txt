@@ -1,0 +1,8 @@
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_xmllint/CMakeFiles/uninstall.dir
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_xmllint/CMakeFiles/ament_cmake_xmllint_uninstall.dir
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_xmllint/CMakeFiles/test.dir
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_xmllint/CMakeFiles/edit_cache.dir
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_xmllint/CMakeFiles/rebuild_cache.dir
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_xmllint/CMakeFiles/list_install_components.dir
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_xmllint/CMakeFiles/install.dir
+/home/nammy/micro_ros_ws/firmware/dev_ws/build/ament_cmake_xmllint/CMakeFiles/install/local.dir

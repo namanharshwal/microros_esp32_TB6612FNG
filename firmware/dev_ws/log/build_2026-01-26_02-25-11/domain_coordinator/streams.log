@@ -1,0 +1,35 @@
+[1.480s] Invoking command in '/home/nammy/micro_ros_ws/firmware/dev_ws/ros2/ament_cmake_ros/domain_coordinator': AMENT_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_copyright:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_copyright/bin:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/bin:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/build/domain_coordinator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nammy/micro_ros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/domain_coordinator build --build-base /home/nammy/micro_ros_ws/firmware/dev_ws/build/domain_coordinator/build install --record /home/nammy/micro_ros_ws/firmware/dev_ws/build/domain_coordinator/install.log --single-version-externally-managed install_data
+[1.617s] running egg_info
+[1.617s] creating ../../../build/domain_coordinator/domain_coordinator.egg-info
+[1.617s] writing ../../../build/domain_coordinator/domain_coordinator.egg-info/PKG-INFO
+[1.617s] writing dependency_links to ../../../build/domain_coordinator/domain_coordinator.egg-info/dependency_links.txt
+[1.618s] writing requirements to ../../../build/domain_coordinator/domain_coordinator.egg-info/requires.txt
+[1.618s] writing top-level names to ../../../build/domain_coordinator/domain_coordinator.egg-info/top_level.txt
+[1.618s] writing manifest file '../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[1.618s] reading manifest file '../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[1.619s] writing manifest file '../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[1.619s] running build
+[1.619s] running build_py
+[1.619s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/domain_coordinator/build
+[1.620s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/domain_coordinator/build/lib
+[1.620s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator
+[1.620s] copying domain_coordinator/__init__.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator
+[1.620s] copying domain_coordinator/impl.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator
+[1.620s] running install
+[1.620s] running install_lib
+[1.620s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator
+[1.620s] copying /home/nammy/micro_ros_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator/__init__.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator
+[1.620s] copying /home/nammy/micro_ros_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator/impl.py -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator
+[1.620s] byte-compiling /home/nammy/micro_ros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator/__init__.py to __init__.cpython-310.pyc
+[1.621s] byte-compiling /home/nammy/micro_ros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator/impl.py to impl.cpython-310.pyc
+[1.621s] running install_data
+[1.621s] copying package.xml -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/domain_coordinator/share/domain_coordinator
+[1.621s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/domain_coordinator/share/ament_index
+[1.621s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/domain_coordinator/share/ament_index/resource_index
+[1.621s] creating /home/nammy/micro_ros_ws/firmware/dev_ws/install/domain_coordinator/share/ament_index/resource_index/packages
+[1.621s] copying resource/domain_coordinator -> /home/nammy/micro_ros_ws/firmware/dev_ws/install/domain_coordinator/share/ament_index/resource_index/packages
+[1.621s] running install_egg_info
+[1.622s] Copying ../../../build/domain_coordinator/domain_coordinator.egg-info to /home/nammy/micro_ros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator-0.10.0-py3.10.egg-info
+[1.623s] running install_scripts
+[1.646s] writing list of installed files to '/home/nammy/micro_ros_ws/firmware/dev_ws/build/domain_coordinator/install.log'
+[1.689s] Invoked command in '/home/nammy/micro_ros_ws/firmware/dev_ws/ros2/ament_cmake_ros/domain_coordinator' returned '0': AMENT_PREFIX_PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_copyright:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint PATH=/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_copyright/bin:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/bin:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/nammy/micro_ros_ws/firmware/dev_ws/build/domain_coordinator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nammy/micro_ros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/nammy/micro_ros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/domain_coordinator build --build-base /home/nammy/micro_ros_ws/firmware/dev_ws/build/domain_coordinator/build install --record /home/nammy/micro_ros_ws/firmware/dev_ws/build/domain_coordinator/install.log --single-version-externally-managed install_data

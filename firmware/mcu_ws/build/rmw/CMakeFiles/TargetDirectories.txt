@@ -1,0 +1,10 @@
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rmw/CMakeFiles/uninstall.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rmw/CMakeFiles/rmw_uninstall.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rmw/CMakeFiles/rmw.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rmw/CMakeFiles/test.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rmw/CMakeFiles/edit_cache.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rmw/CMakeFiles/rebuild_cache.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rmw/CMakeFiles/list_install_components.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rmw/CMakeFiles/install.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rmw/CMakeFiles/install/local.dir
+/home/nammy/micro_ros_ws/firmware/mcu_ws/build/rmw/CMakeFiles/install/strip.dir
